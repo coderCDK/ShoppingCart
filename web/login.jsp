@@ -17,7 +17,7 @@
         <form action="login" method="get">
             <table>
                 <tr>
-                    <td>Enter username:</td>
+                    <td>Enter username1:</td>
                     <td><input type="text" name="user"/></td>
                 </tr>
                 <tr>
